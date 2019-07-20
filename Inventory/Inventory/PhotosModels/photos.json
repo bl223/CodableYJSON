@@ -1,0 +1,27 @@
+{
+    "status": "ok",
+    "photos_path": "photos",
+    "photos": [
+        {
+            "image": "dublin.png",
+            "title": "Bryce in Dublin",
+            "description": "Dublin in the Day",
+            "date": "2019-19-23T04:58:01Z"
+        },
+        
+        {
+            "image": "irelandball.png",
+            "title": "The Courtyard at Trinity College",
+            "description": "The Trinity Courtyard",
+            "date": "2019-19-23T04:58:01Z"
+        },
+        
+        {
+            "image": "pndb.png",
+            "title": "Peyton and Bryce",
+            "description": "Peyton and Bryce",
+            "date": "2019-19-23T04:57:01Z"
+          
+        },
+    ]
+}
